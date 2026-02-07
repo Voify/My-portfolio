@@ -18,8 +18,8 @@ const Projects = () => {
       id: 1,
       title: "InkPulse E-commerce",
       category: "web",
-      image: "/myprojects/inkpulse.PNG", 
-      mediaUrl: "/myprojects/inkpulse.PNG", // For web, we show the full screenshot in modal
+      image: "/myprojects/inkpulse.webp", 
+      mediaUrl: "/myprojects/inkpulse.webp", // For web, we show the full screenshot in modal
       type: "image",
       link: "https://inkpulse.com.lk",
       tools: ["Next.js", "Firebase"]
